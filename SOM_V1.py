@@ -1,6 +1,3 @@
-# Mega Case Study - Make a Hybrid Deep Learning Model
-
-
 
 # Part 1 - Identify the Frauds with the Self-Organizing Map
 
